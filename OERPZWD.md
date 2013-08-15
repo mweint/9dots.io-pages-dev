@@ -4,7 +4,7 @@ published: true
 layout: post
 title: test
 blurb: This is how many wwwww characters 140 charachters look like I hope that this WWWW fits in asome sort of reasonable wau askdjhaksdhj askfha;s
-image: /upload/a_md.jpg
+image: /upload/v_md.jpg
 
 ---
 
