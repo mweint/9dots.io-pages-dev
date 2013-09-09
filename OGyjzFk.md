@@ -6,7 +6,7 @@ type: lesson
 blurb: "This is my summary.  Why is this not the hook as well?"
 title: Example
 image: /upload/1t_md.jpg
-update: 2013-09-09T23:54:36.375Z
+update: 2013-09-09T23:57:18.049Z
 
 ---
 
