@@ -1,17 +1,17 @@
 ---
 date: "2013-09-09T21:15:19.708Z"
-published: true
+published: false
 layout: post
 type: lesson
 blurb: "This is my summary.  Why is this not the hook as well?"
 title: Example
 image: /upload/1t_md.jpg
-update: 2013-09-09T22:47:04.928Z
+update: 2013-09-09T23:54:12.152Z
 
 ---
 
 ## Hook
-Hook is a stupid section.  I vote this doesn't exist.<!-- -->
+<!-- -->
 ## Intro
 My project is about something or other.  Have your're children do some things.  And then you can all talk and learn from the things you just did.<!-- -->
 ## Explore
